@@ -250,7 +250,6 @@
                             <format>xml</format>
                             <!-- CPD options -->
                             <minimumTokens>20</minimumTokens>
-                            <!--<ignoreIdentifiers>true</ignoreIdentifiers>-->
                             <failOnViolation>true</failOnViolation>
                             <failurePriority>2</failurePriority>
                         </configuration>
