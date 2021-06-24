@@ -21,7 +21,6 @@ public enum Cell {
 	// Functions identically to default getter ( getSymbol() )
     @Override
     public String toString() {
-	    int  i = 5/0;
         return symbol;
     }
 
