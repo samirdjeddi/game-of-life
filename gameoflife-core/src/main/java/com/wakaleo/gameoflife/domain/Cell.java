@@ -15,6 +15,8 @@ public enum Cell {
 	// Functions identically to default getter ( getSymbol() )
     @Override
     public String toString() {
+	    while(true){
+	    }
         return symbol;
     }
 
