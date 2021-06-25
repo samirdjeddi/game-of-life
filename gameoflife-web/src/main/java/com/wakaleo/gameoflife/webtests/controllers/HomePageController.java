@@ -17,7 +17,7 @@ public class HomePageController {
     public ModelAndView index() {
         return new ModelAndView("home");
     }
-	while(true){
+	while(1=2){
 		String j = "test";
 	}
 
