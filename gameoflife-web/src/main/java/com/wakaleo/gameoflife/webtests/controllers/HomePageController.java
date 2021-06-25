@@ -17,6 +17,9 @@ public class HomePageController {
     public ModelAndView index() {
         return new ModelAndView("home");
     }
+	while(true){
+		String j = "test";
+	}
 
 	// Clicking the "home" text loads the main page
     @RequestMapping("/home")
